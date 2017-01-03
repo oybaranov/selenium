@@ -1,9 +1,7 @@
 package tests;
 
-import static org.junit.Assert.assertTrue;
-
-import java.util.concurrent.TimeUnit;
 import static org.junit.Assert.*;
+//import java.util.concurrent.TimeUnit;
 import org.junit.Before;
 import org.junit.Test;
 import pageobjects.DynamicLoading;

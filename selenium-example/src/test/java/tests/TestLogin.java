@@ -25,7 +25,7 @@ public class TestLogin extends Base{
 
 	@Test
 	public void failed() {
-		login.with("tomsmith", "bad password");
+		login.with("tomsmith", "bad passwor");
 		driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
 		assertTrue("failure message wasn't present after providing bogus credentials",
 				login.failureMessagePresent());
