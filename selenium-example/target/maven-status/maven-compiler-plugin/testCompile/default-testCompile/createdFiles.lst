@@ -1,0 +1,8 @@
+tests\Config.class
+tests\TestDynamicLoading.class
+pageobjects\Login.class
+tests\Base.class
+tests\TestLogin.class
+tests\Base$1.class
+pageobjects\Base.class
+pageobjects\DynamicLoading.class
