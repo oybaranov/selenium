@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: tests.TestDynamicLoading
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 30.135 sec <<< FAILURE! - in tests.TestDynamicLoading
+hiddenElementLoads(tests.TestDynamicLoading)  Time elapsed: 30.135 sec  <<< FAILURE!
+java.lang.AssertionError: finish text didn't display after loading
+	at tests.TestDynamicLoading.hiddenElementLoads(TestDynamicLoading.java:28)
+
