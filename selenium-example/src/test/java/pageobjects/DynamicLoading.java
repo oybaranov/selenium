@@ -5,7 +5,9 @@ import org.openqa.selenium.WebDriver;
 
 public class DynamicLoading extends Base {
 	By startButton = By.cssSelector("#start button");
+	//By startButton = By.id("start");
 	By finishText = By.id("finish");
+	//By finishText = By.cssSelector("#finish");
 	public DynamicLoading(WebDriver driver) {
 		super(driver);
 	}

@@ -3,6 +3,7 @@ tests\TestDynamicLoading.class
 pageobjects\Login.class
 tests\Base.class
 tests\TestLogin.class
+tests\Integra1.class
 tests\Base$1.class
 pageobjects\Base.class
 pageobjects\DynamicLoading.class
